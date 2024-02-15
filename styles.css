@@ -15,8 +15,21 @@ header nav li{
 
 .info {
     display: flex;
+
 }
 .info .sidebar {
-    margin: 75px;
+    margin: 35px;
 }
-
+.info .sidebar p{
+    text-align: center;
+}
+.info .sidebar li{
+    
+    text-align: left;
+}
+footer {
+    text-align: center;
+}
+footer a{
+    margin: 15px;
+}
